@@ -71,8 +71,8 @@ console.log(whatAmILearning);
         >
           {
           whatAmIUsing.length === 0 ? 
-          'const whatAmIUsing = [...prew, "ReactJS", "HTML", "JavaScript", "CSS","JSON", "Redux", "Tailwind"];'
-         : `const whatAmILearning = [${whatAmIUsing[0]}, "${whatAmIUsing[1]}", "${whatAmIUsing[2]}", "${whatAmIUsing[3]}", "${whatAmIUsing[4]}", "${whatAmIUsing[5]}", "${whatAmIUsing[6]}", "${whatAmIUsing[7]}"];`
+          'const whatAmIUsing = [...prew, "ReactJS", "HTML", "JavaScript", "CSS", "JSON", "Redux", "Tailwind"];'
+         : `const whatAmIUsing = [${whatAmIUsing[0]}, "${whatAmIUsing[1]}", "${whatAmIUsing[2]}", "${whatAmIUsing[3]}", "${whatAmIUsing[4]}", "${whatAmIUsing[5]}", "${whatAmIUsing[6]}", "${whatAmIUsing[7]}"];`
        } 
         </p>
         <p
@@ -80,7 +80,7 @@ console.log(whatAmILearning);
               text-primary-light mb-2'
         >{
           whatAmILearning.length === 0 ? 
-          'const whatAmILearning = ["GIT", "MERN","Sass","NextJS" ];'
+          'const whatAmILearning = ["GIT", "MERN", "Sass", "NextJS" ];'
          : `const whatAmILearning = ["${whatAmILearning[0]}", "${whatAmILearning[1]}", "${whatAmILearning[2]}", "${whatAmILearning[3]}" ];`
        } </p>
 
@@ -111,7 +111,7 @@ console.log(whatAmILearning);
             />
           </a>
           </div>
-          <Link className="text-xs md:text-sm text-primary-400" to='https://melikeozlen.herokuapp.com/post'>My Project<MdOutlineNavigateNext className="inline-block text-lg md:text-2xl text-primary-400"/> </Link>
+          <Link className="text-xs md:text-sm text-primary-400" to='/post'>My Project<MdOutlineNavigateNext className="inline-block text-lg md:text-2xl text-primary-400"/> </Link>
         </div>
       </div>
       <motion.img

@@ -27,7 +27,7 @@ const PostItem = ({postValue, lang, index}) => {
     className='w-full min-h-80 h-max relative pb-5
     dark:bg-slate-700 rounded-lg shadow-2xl dark:border-b-4 dark:border-primary-400
     bg-primary-dark '>
-    <img src={IMG_URL} loading="lazy"
+    <img src={IMG_URL} 
         className="w-full mb-1 h-44 object-cover rounded-lg hover:scale-105 hover:transition-transform"/>
 
        <h3 className='uppercase font-regular text-center mb-1 mt-1 text-primary-light font-bold'>

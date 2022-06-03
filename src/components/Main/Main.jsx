@@ -111,7 +111,7 @@ console.log(whatAmILearning);
             />
           </a>
           </div>
-          <Link className="text-xs md:text-sm text-primary-400" to='/post'>My Project<MdOutlineNavigateNext className="inline-block text-lg md:text-2xl text-primary-400"/> </Link>
+          <Link className="text-xs md:text-sm text-primary-400" to='https://melikeozlen.herokuapp.com/post'>My Project<MdOutlineNavigateNext className="inline-block text-lg md:text-2xl text-primary-400"/> </Link>
         </div>
       </div>
       <motion.img

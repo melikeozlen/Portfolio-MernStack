@@ -21,7 +21,7 @@ const Post = ({lang}) => {
     dark:bg-primary-extra-dark
     bg-primary-light
      ">
-      <Link className="inline-block dark:text-primary-400 text-primary-dark font-medium ml-2" to='/'>
+      <Link className="inline-block dark:text-primary-400 text-primary-dark font-medium ml-2" to='https://melikeozlen.herokuapp.com/'>
         <IoIosArrowBack className="inline-block dark:text-primary-400 text-primary-dark"/> Back
       </Link>
       {

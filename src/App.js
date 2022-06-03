@@ -12,8 +12,8 @@ const App = () => {
       <React.Fragment>
         <Header lang={lang} setLang={setLang}/>
         <Routes>
-          <Route exact path='/' element={<Main lang={lang} />} />
-          <Route path='/post' element={<Post lang={lang}/>} />
+          <Route exact path='https://melikeozlen.herokuapp.com/' element={<Main lang={lang} />} />
+          <Route path='https://melikeozlen.herokuapp.com/post' element={<Post lang={lang}/>} />
           <Route path='*' element={<NotFound/>} />
         </Routes>
       </React.Fragment>

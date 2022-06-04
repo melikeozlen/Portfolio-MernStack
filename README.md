@@ -9,7 +9,7 @@ MERN Stack teknolojileri kullanarak geliştirdiğm, Full stack portfolio sitem. 
   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/44196940/171918129-5b73a9e7-be84-43b7-8c15-1558e9d23edd.png"/>                               
 </p>
 <br>
-*** Kullandığım teknolojiler; ***
+***Kullandığım teknolojiler;***
 
 * ReactJS  
 * Framer Motion  
@@ -18,7 +18,7 @@ MERN Stack teknolojileri kullanarak geliştirdiğm, Full stack portfolio sitem. 
 * ExpressJS  
 * NodeJS  
 
-Postlarım kısmında ki veriler mongodb'de tutulmuştur. Backend kısmını depolamak için *** Heroku *** , Frontend kısmını depolamak için Vercel kullanılmıştır. Sitede Dark/Light mod özelliği ve Türkçe/İngilizce dil desteği vardır ✌️
+Postlarım kısmında ki veriler mongodb'de tutulmuştur. Backend kısmını depolamak için ***Heroku*** , Frontend kısmını depolamak için Vercel kullanılmıştır. Sitede Dark/Light mod özelliği ve Türkçe/İngilizce dil desteği vardır ✌️
 <br>
 <p align="center">
   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/44196940/171997642-024a022e-fca6-4e8d-a4c1-3990eae686e4.png"/>

@@ -1,4 +1,5 @@
-# My Portfolio
+# My Portfolio 🎊
+
 MERN Stack teknolojileri kullanarak geliştirdiğm, Full stack portfolio sitem. Tasarım konusunda [codingwithdidem](https://www.youtube.com/watch?v=YWMpga5Ax7A&t=6119s) 'in videosundan esinlenilmiştir. Kodlaması bana aittir.  
 
 [Siteye gitmek için tıklayınız!](https://portfolio-melikeozlen.vercel.app/)
@@ -8,20 +9,22 @@ MERN Stack teknolojileri kullanarak geliştirdiğm, Full stack portfolio sitem. 
   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/44196940/171918129-5b73a9e7-be84-43b7-8c15-1558e9d23edd.png"/>                               
 </p>
 <br>
-** Kullandığım teknolojiler;
+**** Kullandığım teknolojiler; ****
 
-* -ReactJS  
-* -Framer Motion  
-* -Tailwindcss  
-* -Mongodb  
-* -ExpressJS  
-* -NodeJS
+* ReactJS  
+* Framer Motion  
+* Tailwindcss  
+* Mongodb  
+* ExpressJS  
+* NodeJS  
 
+Postlarım kısmında ki veriler mongodb'de tutulmuştur. Backend kısmını depolamak için **** Heroku **** , Frontend kısmını depolamak için Vercel kullanılmıştır. Sitede Dark/Light mod özelliği ve Türkçe/İngilizce dil desteği vardır ✌️
 <p align="center">
   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/44196940/171997642-024a022e-fca6-4e8d-a4c1-3990eae686e4.png"/>
   <img width="45%" height="auto" src="https://user-images.githubusercontent.com/44196940/171997674-d10da789-7113-4dba-ad5c-4eff9bb6c393.png"/>
                                       
 </p>
+
 
 
 ## Responsive    
